@@ -1,2 +1,2 @@
-# leaf-api-goals-app
- Goals App API with leaf
+# leaf-api-demo-app
+ Demo App API with leaf
